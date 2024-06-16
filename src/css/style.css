@@ -147,6 +147,10 @@ body{
     height: 3rem;
   }
 
+  .mainHeader{
+    z-index: 3;
+  }
+
   .mainMenu{
     flex-flow: column nowrap;
     align-items: center;
