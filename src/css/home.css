@@ -72,6 +72,7 @@
     font-size: 1.4rem;
     font-weight: bold;
     margin: 2rem auto;
+    z-index: 1;
 
 }
 
